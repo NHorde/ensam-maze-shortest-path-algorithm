@@ -1,3 +1,5 @@
+
+
 # -*-coding:Latin-1 -*
 
 from labyrintheLogique import *
